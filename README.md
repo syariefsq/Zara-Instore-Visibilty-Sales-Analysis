@@ -1,3 +1,5 @@
+![Zara-Data-Dashboard.png](Zara-Data-Dashboard.png)
+
 # 🛍️ Zara Instore Visibility & Sales Analysis
 
 Hello! I’m Syarief, and this project is my deep dive into how product placement inside Zara stores can make or break sales. As someone who loves blending analytics with real-world business questions, I set out to answer: *Does what you see, really sell?*
